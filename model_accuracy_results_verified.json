@@ -1,0 +1,581 @@
+{
+  "metadata": {
+    "model": "deepseek-r1-distill-llama-70b",
+    "start_time": "2025-01-27T01:13:37.968256",
+    "last_updated": "2025-01-27T01:47:00.912717",
+    "total_questions": 198,
+    "questions_processed": 63,
+    "correct_answers": 44,
+    "accuracy": 69.84126984126983,
+    "answers_changed_by_verifier": 2
+  },
+  "processed_questions": [
+    {
+      "id": 1,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:14:23.918678"
+    },
+    {
+      "id": 2,
+      "original_answer": "B",
+      "verified_answer": "B",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": false,
+      "timestamp": "2025-01-27T01:14:55.927068"
+    },
+    {
+      "id": 3,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:15:09.318962"
+    },
+    {
+      "id": 4,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:15:23.624211"
+    },
+    {
+      "id": 5,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:15:46.201819"
+    },
+    {
+      "id": 6,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:16:00.857919"
+    },
+    {
+      "id": 7,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:16:20.204070"
+    },
+    {
+      "id": 8,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:17:00.210622"
+    },
+    {
+      "id": 9,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:17:20.757770"
+    },
+    {
+      "id": 10,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:17:38.710417"
+    },
+    {
+      "id": 11,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:17:56.776838"
+    },
+    {
+      "id": 12,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:18:21.489961"
+    },
+    {
+      "id": 13,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:19:00.278117"
+    },
+    {
+      "id": 14,
+      "original_answer": "C",
+      "verified_answer": "C",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": false,
+      "timestamp": "2025-01-27T01:19:26.991722"
+    },
+    {
+      "id": 15,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:19:42.449262"
+    },
+    {
+      "id": 16,
+      "original_answer": "C",
+      "verified_answer": "C",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": false,
+      "timestamp": "2025-01-27T01:20:35.001887"
+    },
+    {
+      "id": 17,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:20:47.047491"
+    },
+    {
+      "id": 18,
+      "original_answer": "B",
+      "verified_answer": "B",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": false,
+      "timestamp": "2025-01-27T01:21:01.677295"
+    },
+    {
+      "id": 19,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:21:43.050192"
+    },
+    {
+      "id": 20,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:21:50.164439"
+    },
+    {
+      "id": 21,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:22:30.349748"
+    },
+    {
+      "id": 22,
+      "original_answer": "C",
+      "verified_answer": "C",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": false,
+      "timestamp": "2025-01-27T01:22:41.195356"
+    },
+    {
+      "id": 23,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:23:23.474545"
+    },
+    {
+      "id": 24,
+      "original_answer": "A",
+      "verified_answer": "C",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": false,
+      "timestamp": "2025-01-27T01:23:46.965941"
+    },
+    {
+      "id": 25,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:24:32.537396"
+    },
+    {
+      "id": 26,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": true,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:25:19.742637"
+    },
+    {
+      "id": 27,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:25:35.303685"
+    },
+    {
+      "id": 28,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:26:12.642555"
+    },
+    {
+      "id": 29,
+      "original_answer": "D",
+      "verified_answer": "D",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": false,
+      "timestamp": "2025-01-27T01:26:40.050759"
+    },
+    {
+      "id": 30,
+      "original_answer": "C",
+      "verified_answer": "C",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": false,
+      "timestamp": "2025-01-27T01:26:51.805818"
+    },
+    {
+      "id": 31,
+      "original_answer": "B",
+      "verified_answer": "B",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": false,
+      "timestamp": "2025-01-27T01:27:43.506564"
+    },
+    {
+      "id": 32,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:28:16.952965"
+    },
+    {
+      "id": 33,
+      "original_answer": "B",
+      "verified_answer": "B",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": false,
+      "timestamp": "2025-01-27T01:28:46.788910"
+    },
+    {
+      "id": 34,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:29:25.159267"
+    },
+    {
+      "id": 35,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:29:39.752222"
+    },
+    {
+      "id": 36,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:29:53.208441"
+    },
+    {
+      "id": 37,
+      "original_answer": "D",
+      "verified_answer": "D",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": false,
+      "timestamp": "2025-01-27T01:30:20.468742"
+    },
+    {
+      "id": 38,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:30:46.543476"
+    },
+    {
+      "id": 39,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:30:58.382631"
+    },
+    {
+      "id": 40,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:31:10.225648"
+    },
+    {
+      "id": 41,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:31:22.978965"
+    },
+    {
+      "id": 42,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:31:38.208864"
+    },
+    {
+      "id": 43,
+      "original_answer": "D",
+      "verified_answer": "D",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": false,
+      "timestamp": "2025-01-27T01:32:16.013733"
+    },
+    {
+      "id": 44,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:32:41.657811"
+    },
+    {
+      "id": 45,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:33:04.563846"
+    },
+    {
+      "id": 46,
+      "original_answer": "C",
+      "verified_answer": "C",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": false,
+      "timestamp": "2025-01-27T01:33:33.584318"
+    },
+    {
+      "id": 47,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:34:11.384646"
+    },
+    {
+      "id": 48,
+      "original_answer": "B",
+      "verified_answer": "B",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": false,
+      "timestamp": "2025-01-27T01:34:55.481623"
+    },
+    {
+      "id": 49,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:35:34.727000"
+    },
+    {
+      "id": 50,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:35:47.338818"
+    },
+    {
+      "id": 51,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:36:17.869896"
+    },
+    {
+      "id": 52,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:37:27.685817"
+    },
+    {
+      "id": 53,
+      "original_answer": "D",
+      "verified_answer": "D",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": false,
+      "timestamp": "2025-01-27T01:38:17.094725"
+    },
+    {
+      "id": 54,
+      "original_answer": "C",
+      "verified_answer": "C",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": false,
+      "timestamp": "2025-01-27T01:38:54.271925"
+    },
+    {
+      "id": 55,
+      "original_answer": "B",
+      "verified_answer": "C",
+      "was_changed": true,
+      "correct_answer": "A",
+      "is_correct": false,
+      "timestamp": "2025-01-27T01:39:43.106713"
+    },
+    {
+      "id": 56,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:40:36.387760"
+    },
+    {
+      "id": 57,
+      "original_answer": "B",
+      "verified_answer": "B",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": false,
+      "timestamp": "2025-01-27T01:41:41.826705"
+    },
+    {
+      "id": 58,
+      "original_answer": "B",
+      "verified_answer": "B",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": false,
+      "timestamp": "2025-01-27T01:42:06.493167"
+    },
+    {
+      "id": 59,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:42:30.697246"
+    },
+    {
+      "id": 60,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:43:31.275880"
+    },
+    {
+      "id": 61,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:44:56.350018"
+    },
+    {
+      "id": 62,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:46:05.531145"
+    },
+    {
+      "id": 63,
+      "original_answer": "A",
+      "verified_answer": "A",
+      "was_changed": false,
+      "correct_answer": "A",
+      "is_correct": true,
+      "timestamp": "2025-01-27T01:47:00.912717"
+    }
+  ]
+}
